@@ -1,0 +1,34 @@
+li {
+  list-style-type: none;
+}
+
+.desconto {
+  text-decoration: line-through;
+}
+
+body {
+  padding: 20px;
+}
+
+.info {
+  width: auto;
+  height: auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.review {
+  font-style: italic;
+}
+
+h1 {
+  text-align: center;
+  background-image: url(https://img.freepik.com/free-vector/abstract-trendy-black-line-pattern-decoration-background_121035-76.jpg?size=626&ext=jpg);
+}
